@@ -71,11 +71,12 @@ a:active {
 
 .btn-mid {
     color: #002179; 
-    background: #098DEF; 
+    background: #76b4e3;
+    text-shadow: 0 0 1px grey; 
 }
 
 .btn-light {
-    color: #5f29a3; 
+    color: #002179; 
     background: whitesmoke;
 }
 
@@ -124,6 +125,7 @@ header,
 .feature-image {
     width: 100%;
     border-radius: 4.6px;
+    height: 300px;
 }
 
 .feature-item {
@@ -132,7 +134,7 @@ header,
 
 footer {
     text-align: center;
-    color: #5f29a3;
+    color: #f21814;
 }
 
 /* ----- NAVIGATION ----- */
